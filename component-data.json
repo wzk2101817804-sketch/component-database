@@ -1,0 +1,272 @@
+{
+  "models": {
+    "ZXZ123": {
+      "number": "ZXZ123",
+      "brand": "未设置品牌",
+      "category": "hot",
+      "quantity": "123",
+      "targetPrice": "123",
+      "addTime": "2025-09-16T14:52:38.236Z",
+      "lastModified": "2025-09-16T14:52:38.236Z",
+      "lastModifiedBy": "zxz",
+      "createdBy": "zxz",
+      "version": 1
+    }
+  },
+  "history": {
+    "ZXZ123": {
+      "brand": "未设置品牌",
+      "category": "hot",
+      "quantity": "123",
+      "targetPrice": "123",
+      "lastUpdate": "2025-09-16T14:54:23.300Z",
+      "savedBy": "zxz",
+      "savedFrom": "batch_save",
+      "version": 1,
+      "originalCreatedBy": "zxz",
+      "contributors": [
+        "zxz"
+      ]
+    }
+  },
+  "brands": {},
+  "changeHistory": [
+    {
+      "id": "1758034358236zw5xt2ito",
+      "timestamp": "2025-09-16T14:52:38.236Z",
+      "version": 1,
+      "action": "add",
+      "modelNumber": "ZXZ123",
+      "oldData": null,
+      "newData": {
+        "number": "ZXZ123",
+        "brand": "未设置品牌",
+        "category": "unclassified",
+        "quantity": "",
+        "targetPrice": "",
+        "addTime": "2025-09-16T14:52:38.236Z",
+        "lastModified": "2025-09-16T14:52:38.236Z",
+        "lastModifiedBy": "zxz",
+        "createdBy": "zxz",
+        "version": 1
+      },
+      "metadata": {
+        "source": "manual_input",
+        "restoredFromHistory": false
+      },
+      "user": "zxz",
+      "source": "manual_input",
+      "syncUser": "zxz",
+      "originalUser": "zxz",
+      "conflictFields": [],
+      "sessionId": "mfmo9kgs3td8rzkd4f8"
+    },
+    {
+      "id": "17580343671362oonbibtd",
+      "timestamp": "2025-09-16T14:52:47.136Z",
+      "version": 1,
+      "action": "batch_save_history",
+      "modelNumber": "BATCH_OPERATION",
+      "oldData": null,
+      "newData": null,
+      "metadata": {
+        "source": "batch_save",
+        "user": "zxz",
+        "savedCount": 1,
+        "skippedCount": 0,
+        "totalSelected": 1,
+        "savedToHistory": true
+      },
+      "user": "zxz",
+      "source": "batch_save",
+      "syncUser": "zxz",
+      "originalUser": "zxz",
+      "conflictFields": [],
+      "sessionId": "mfmo9kgs3td8rzkd4f8"
+    },
+    {
+      "id": "1758034459505j9qalhg36",
+      "timestamp": "2025-09-16T14:54:19.505Z",
+      "version": 1,
+      "action": "update",
+      "modelNumber": "ZXZ123",
+      "oldData": {
+        "number": "ZXZ123",
+        "brand": "未设置品牌",
+        "category": "hot",
+        "quantity": "",
+        "targetPrice": "",
+        "addTime": "2025-09-16T14:52:38.236Z",
+        "lastModified": "2025-09-16T14:52:38.236Z",
+        "lastModifiedBy": "zxz",
+        "createdBy": "zxz",
+        "version": 1
+      },
+      "newData": {
+        "number": "ZXZ123",
+        "brand": "未设置品牌",
+        "category": "hot",
+        "quantity": "123",
+        "targetPrice": "",
+        "addTime": "2025-09-16T14:52:38.236Z",
+        "lastModified": "2025-09-16T14:52:38.236Z",
+        "lastModifiedBy": "zxz",
+        "createdBy": "zxz",
+        "version": 1
+      },
+      "metadata": {
+        "source": "field_update",
+        "field": "quantity"
+      },
+      "user": "zxz",
+      "source": "field_update",
+      "syncUser": "zxz",
+      "originalUser": "zxz",
+      "conflictFields": [],
+      "sessionId": "mfmobqltkshkhnzuksj"
+    },
+    {
+      "id": "1758034461539w4blttglo",
+      "timestamp": "2025-09-16T14:54:21.539Z",
+      "version": 1,
+      "action": "update",
+      "modelNumber": "ZXZ123",
+      "oldData": {
+        "number": "ZXZ123",
+        "brand": "未设置品牌",
+        "category": "hot",
+        "quantity": "123",
+        "targetPrice": "",
+        "addTime": "2025-09-16T14:52:38.236Z",
+        "lastModified": "2025-09-16T14:52:38.236Z",
+        "lastModifiedBy": "zxz",
+        "createdBy": "zxz",
+        "version": 1
+      },
+      "newData": {
+        "number": "ZXZ123",
+        "brand": "未设置品牌",
+        "category": "hot",
+        "quantity": "123",
+        "targetPrice": "123",
+        "addTime": "2025-09-16T14:52:38.236Z",
+        "lastModified": "2025-09-16T14:52:38.236Z",
+        "lastModifiedBy": "zxz",
+        "createdBy": "zxz",
+        "version": 1
+      },
+      "metadata": {
+        "source": "field_update",
+        "field": "targetPrice"
+      },
+      "user": "zxz",
+      "source": "field_update",
+      "syncUser": "zxz",
+      "originalUser": "zxz",
+      "conflictFields": [],
+      "sessionId": "mfmobqltkshkhnzuksj"
+    },
+    {
+      "id": "17580344633000vddqubcy",
+      "timestamp": "2025-09-16T14:54:23.300Z",
+      "version": 1,
+      "action": "batch_save_history",
+      "modelNumber": "BATCH_OPERATION",
+      "oldData": null,
+      "newData": null,
+      "metadata": {
+        "source": "batch_save",
+        "user": "zxz",
+        "savedCount": 1,
+        "skippedCount": 0,
+        "totalSelected": 1,
+        "savedToHistory": true
+      },
+      "user": "zxz",
+      "source": "batch_save",
+      "syncUser": "zxz",
+      "originalUser": "zxz",
+      "conflictFields": [],
+      "sessionId": "mfmobqltkshkhnzuksj"
+    }
+  ],
+  "versions": {},
+  "currentVersion": 1,
+  "teamMembers": {
+    "zxz": {
+      "id": "zxz",
+      "name": "zxz",
+      "joinTime": "2025-09-16T14:52:38.237Z",
+      "lastActive": "2025-09-16T14:54:23.300Z",
+      "operationCount": 5,
+      "role": "member"
+    }
+  },
+  "userOperations": {
+    "zxz": [
+      {
+        "action": "add",
+        "modelNumber": "ZXZ123",
+        "timestamp": "2025-09-16T14:52:38.236Z",
+        "details": {
+          "category": "unclassified",
+          "brand": "未设置品牌",
+          "source": "manual_input"
+        }
+      },
+      {
+        "action": "batch_save_history",
+        "modelNumber": "BATCH_OPERATION",
+        "timestamp": "2025-09-16T14:52:47.136Z",
+        "details": {
+          "source": "batch_save"
+        }
+      },
+      {
+        "action": "update",
+        "modelNumber": "ZXZ123",
+        "timestamp": "2025-09-16T14:54:19.505Z",
+        "details": {
+          "category": "hot",
+          "brand": "未设置品牌",
+          "source": "field_update"
+        }
+      },
+      {
+        "action": "update",
+        "modelNumber": "ZXZ123",
+        "timestamp": "2025-09-16T14:54:21.539Z",
+        "details": {
+          "category": "hot",
+          "brand": "未设置品牌",
+          "source": "field_update"
+        }
+      },
+      {
+        "action": "batch_save_history",
+        "modelNumber": "BATCH_OPERATION",
+        "timestamp": "2025-09-16T14:54:23.300Z",
+        "details": {
+          "source": "batch_save"
+        }
+      }
+    ]
+  },
+  "syncConflicts": [],
+  "syncInfo": {
+    "teamId": "4",
+    "lastSync": "2025-09-16T14:54:23.301Z",
+    "syncUser": "zxz",
+    "syncVersion": 1758034463301,
+    "clientVersion": "1.2.0",
+    "conflictResolution": "smart_merge",
+    "totalOperations": 5,
+    "historyRecordCount": 1,
+    "modelsCount": 1,
+    "dataIntegrity": {
+      "historyChecksum": "v95gko",
+      "modelsChecksum": "wo8p46",
+      "syncTimestamp": 1758034463301
+    }
+  }
+}
