@@ -7,16 +7,43 @@
       "quantity": "123",
       "targetPrice": "123",
       "addTime": "2025-09-16T14:52:38.236Z",
-      "lastModified": "2025-09-16T14:54:29.974Z",
+      "lastModified": "2025-09-16T14:55:34.558Z",
       "lastModifiedBy": "zxz",
       "createdBy": "zxz",
-      "version": 2,
+      "version": 3,
       "mergeInfo": {
         "localContributor": "zxz",
         "remoteContributor": "zxz",
         "mergeTime": "2025-09-16T14:54:29.974Z",
         "mergeStrategy": "smart_merge"
-      }
+      },
+      "conflictResolutions": [
+        {
+          "field": "brand",
+          "originalLocal": "æªè®¾ç½®åç",
+          "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+          "chosenValue": "æªè®¾ç½®åç",
+          "resolution": "requires_manual_review",
+          "localUser": "zxz",
+          "remoteUser": "zxz",
+          "resolvedAt": "2025-09-16T14:55:34.558Z",
+          "resolvedBy": "zxz"
+        }
+      ],
+      "conflictResolved": true,
+      "collaborationHistory": [
+        {
+          "action": "conflict_resolution",
+          "involvedUsers": [
+            "zxz",
+            "zxz"
+          ],
+          "resolvedFields": [
+            "brand"
+          ],
+          "timestamp": "2025-09-16T14:55:34.558Z"
+        }
+      ]
     }
   },
   "history": {
@@ -43,7 +70,7 @@
           "lastUpdate": "2025-09-16T14:54:23.300Z",
           "operationCount": 0
         },
-        "mergeTime": "2025-09-16T14:54:29.975Z"
+        "mergeTime": "2025-09-16T14:55:34.558Z"
       }
     }
   },
@@ -254,6 +281,110 @@
       "originalUser": "zxz",
       "conflictFields": [],
       "sessionId": "mfmobqltkshkhnzuksj"
+    },
+    {
+      "id": "1758034534558ku2gjb4a3",
+      "timestamp": "2025-09-16T14:55:34.558Z",
+      "version": 1,
+      "action": "conflict_resolved",
+      "modelNumber": "ZXZ123",
+      "oldData": {
+        "number": "ZXZ123",
+        "brand": "æªè®¾ç½®åç",
+        "category": "hot",
+        "quantity": "123",
+        "targetPrice": "123",
+        "addTime": "2025-09-16T14:52:38.236Z",
+        "lastModified": "2025-09-16T14:54:29.974Z",
+        "lastModifiedBy": "zxz",
+        "createdBy": "zxz",
+        "version": 2,
+        "mergeInfo": {
+          "localContributor": "zxz",
+          "remoteContributor": "zxz",
+          "mergeTime": "2025-09-16T14:54:29.974Z",
+          "mergeStrategy": "smart_merge"
+        }
+      },
+      "newData": {
+        "number": "ZXZ123",
+        "brand": "æªè®¾ç½®åç",
+        "category": "hot",
+        "quantity": "123",
+        "targetPrice": "123",
+        "addTime": "2025-09-16T14:52:38.236Z",
+        "lastModified": "2025-09-16T14:55:34.558Z",
+        "lastModifiedBy": "zxz",
+        "createdBy": "zxz",
+        "version": 3,
+        "mergeInfo": {
+          "localContributor": "zxz",
+          "remoteContributor": "zxz",
+          "mergeTime": "2025-09-16T14:54:29.974Z",
+          "mergeStrategy": "smart_merge"
+        },
+        "conflictResolutions": [
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:55:34.558Z",
+            "resolvedBy": "zxz"
+          }
+        ],
+        "conflictResolved": true,
+        "collaborationHistory": [
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:55:34.558Z"
+          }
+        ]
+      },
+      "metadata": {
+        "source": "conflict_resolution",
+        "conflictFields": [
+          {
+            "field": "brand",
+            "local": "æªè®¾ç½®åç",
+            "remote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "localTime": 1758034469974,
+            "remoteTime": 1758034469974,
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "severity": "high"
+          }
+        ],
+        "resolution": "smart_merge"
+      },
+      "user": "zxz",
+      "source": "conflict_resolution",
+      "syncUser": "zxz",
+      "originalUser": "zxz",
+      "conflictFields": [
+        {
+          "field": "brand",
+          "local": "æªè®¾ç½®åç",
+          "remote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+          "localTime": 1758034469974,
+          "remoteTime": 1758034469974,
+          "localUser": "zxz",
+          "remoteUser": "zxz",
+          "severity": "high"
+        }
+      ],
+      "resolution": "smart_merge",
+      "sessionId": "mfmobqltkshkhnzuksj"
     }
   ],
   "versions": {},
@@ -263,8 +394,8 @@
       "id": "zxz",
       "name": "zxz",
       "joinTime": "2025-09-16T14:52:38.237Z",
-      "lastActive": "2025-09-16T14:54:29.974Z",
-      "operationCount": 6,
+      "lastActive": "2025-09-16T14:55:34.558Z",
+      "operationCount": 7,
       "role": "member"
     }
   },
@@ -325,24 +456,46 @@
           "brand": "æªè®¾ç½®åç",
           "source": "remote_update"
         }
+      },
+      {
+        "action": "conflict_resolved",
+        "modelNumber": "ZXZ123",
+        "timestamp": "2025-09-16T14:55:34.558Z",
+        "details": {
+          "category": "hot",
+          "brand": "æªè®¾ç½®åç",
+          "source": "conflict_resolution"
+        }
       }
     ]
   },
-  "syncConflicts": [],
+  "syncConflicts": [
+    {
+      "modelNumber": "ZXZ123",
+      "field": "brand",
+      "localValue": "æªè®¾ç½®åç",
+      "remoteValue": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+      "localUser": "zxz",
+      "remoteUser": "zxz",
+      "suggestion": "manual_review_required",
+      "timestamp": "2025-09-16T14:55:34.558Z",
+      "reason": "高严重程度冲突，建议人工处理"
+    }
+  ],
   "syncInfo": {
     "teamId": "4",
-    "lastSync": "2025-09-16T14:54:29.976Z",
+    "lastSync": "2025-09-16T14:55:34.559Z",
     "syncUser": "zxz",
-    "syncVersion": 1758034469976,
+    "syncVersion": 1758034534559,
     "clientVersion": "1.2.0",
     "conflictResolution": "smart_merge",
     "totalOperations": 1,
     "historyRecordCount": 1,
     "modelsCount": 1,
     "dataIntegrity": {
-      "historyChecksum": "-kn4y0j",
-      "modelsChecksum": "-31asav",
-      "syncTimestamp": 1758034469976
+      "historyChecksum": "el27t3",
+      "modelsChecksum": "-x7t22f",
+      "syncTimestamp": 1758034534559
     }
   }
 }
