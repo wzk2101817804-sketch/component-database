@@ -7,10 +7,10 @@
       "quantity": "123",
       "targetPrice": "123",
       "addTime": "2025-09-16T14:52:38.236Z",
-      "lastModified": "2025-09-16T15:04:37.311Z",
+      "lastModified": "2025-09-16T15:05:38.480Z",
       "lastModifiedBy": "zxz",
       "createdBy": "zxz",
-      "version": 21,
+      "version": 23,
       "mergeInfo": {
         "localContributor": "zxz",
         "remoteContributor": "zxz",
@@ -226,6 +226,28 @@
           "remoteUser": "zxz",
           "resolvedAt": "2025-09-16T15:04:37.311Z",
           "resolvedBy": "zxz"
+        },
+        {
+          "field": "brand",
+          "originalLocal": "æªè®¾ç½®åç",
+          "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+          "chosenValue": "æªè®¾ç½®åç",
+          "resolution": "requires_manual_review",
+          "localUser": "zxz",
+          "remoteUser": "zxz",
+          "resolvedAt": "2025-09-16T15:05:04.687Z",
+          "resolvedBy": "zxz"
+        },
+        {
+          "field": "brand",
+          "originalLocal": "æªè®¾ç½®åç",
+          "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+          "chosenValue": "æªè®¾ç½®åç",
+          "resolution": "requires_manual_review",
+          "localUser": "zxz",
+          "remoteUser": "zxz",
+          "resolvedAt": "2025-09-16T15:05:38.480Z",
+          "resolvedBy": "zxz"
         }
       ],
       "conflictResolved": true,
@@ -438,6 +460,28 @@
             "brand"
           ],
           "timestamp": "2025-09-16T15:04:37.311Z"
+        },
+        {
+          "action": "conflict_resolution",
+          "involvedUsers": [
+            "zxz",
+            "zxz"
+          ],
+          "resolvedFields": [
+            "brand"
+          ],
+          "timestamp": "2025-09-16T15:05:04.687Z"
+        },
+        {
+          "action": "conflict_resolution",
+          "involvedUsers": [
+            "zxz",
+            "zxz"
+          ],
+          "resolvedFields": [
+            "brand"
+          ],
+          "timestamp": "2025-09-16T15:05:38.480Z"
         }
       ]
     }
@@ -466,7 +510,7 @@
           "lastUpdate": "2025-09-16T14:54:23.300Z",
           "operationCount": 0
         },
-        "mergeTime": "2025-09-16T15:04:37.312Z"
+        "mergeTime": "2025-09-16T15:05:38.480Z"
       }
     }
   },
@@ -928,6 +972,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -1140,6 +1206,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -1410,6 +1498,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -1622,6 +1732,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -1851,6 +1983,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -2063,6 +2217,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -2333,6 +2509,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -2545,6 +2743,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -2774,6 +2994,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -2986,6 +3228,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -3256,6 +3520,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -3468,6 +3754,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -3697,6 +4005,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -3909,6 +4239,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -4179,6 +4531,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -4391,6 +4765,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -4620,6 +5016,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -4832,6 +5250,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -5102,6 +5542,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -5314,6 +5776,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -5543,6 +6027,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -5755,6 +6261,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -6025,6 +6553,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -6237,6 +6787,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -6466,6 +7038,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -6678,6 +7272,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -6948,6 +7564,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -7160,6 +7798,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -7389,6 +8049,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -7601,6 +8283,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -7871,6 +8575,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -8083,6 +8809,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -8312,6 +9060,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -8524,6 +9294,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -8794,6 +9586,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -9006,6 +9820,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -9235,6 +10071,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -9447,6 +10305,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -9717,6 +10597,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -9929,6 +10831,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -10158,6 +11082,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -10370,6 +11316,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -10640,6 +11608,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -10852,6 +11842,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -11081,6 +12093,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -11293,6 +12327,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -11563,6 +12619,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -11775,6 +12853,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -12004,6 +13104,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -12216,6 +13338,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -12486,6 +13630,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -12698,6 +13864,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -12927,6 +14115,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -13139,6 +14349,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -13409,6 +14641,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -13621,6 +14875,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -13850,6 +15126,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -14062,6 +15360,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -14332,6 +15652,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -14544,6 +15886,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -14773,6 +16137,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -14985,6 +16371,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -15255,6 +16663,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -15467,6 +16897,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -15696,6 +17148,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -15908,6 +17382,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -16178,6 +17674,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -16390,6 +17908,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -16619,6 +18159,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -16831,6 +18393,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -17101,6 +18685,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -17313,6 +18919,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -17542,6 +19170,28 @@
             "remoteUser": "zxz",
             "resolvedAt": "2025-09-16T15:04:37.311Z",
             "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
           }
         ],
         "conflictResolved": true,
@@ -17754,6 +19404,28 @@
               "brand"
             ],
             "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
           }
         ]
       },
@@ -17791,6 +19463,2028 @@
       ],
       "resolution": "smart_merge",
       "sessionId": "mfmobqltkshkhnzuksj"
+    },
+    {
+      "id": "1758035104687be1sgrkev",
+      "timestamp": "2025-09-16T15:05:04.687Z",
+      "version": 1,
+      "action": "conflict_resolved",
+      "modelNumber": "ZXZ123",
+      "oldData": {
+        "number": "ZXZ123",
+        "brand": "æªè®¾ç½®åç",
+        "category": "hot",
+        "quantity": "123",
+        "targetPrice": "123",
+        "addTime": "2025-09-16T14:52:38.236Z",
+        "lastModified": "2025-09-16T15:04:37.311Z",
+        "lastModifiedBy": "zxz",
+        "createdBy": "zxz",
+        "version": 21,
+        "mergeInfo": {
+          "localContributor": "zxz",
+          "remoteContributor": "zxz",
+          "mergeTime": "2025-09-16T14:54:29.974Z",
+          "mergeStrategy": "smart_merge"
+        },
+        "conflictResolutions": [
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:55:34.558Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:56:04.460Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:56:34.928Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:57:04.008Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:57:35.082Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:58:04.096Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:58:34.796Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:59:03.993Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:59:35.466Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:00:04.102Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:00:36.764Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:01:04.457Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:01:35.724Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:02:04.569Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:02:36.971Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:03:04.005Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:03:37.332Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:04:04.125Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:04:37.311Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
+          }
+        ],
+        "conflictResolved": true,
+        "collaborationHistory": [
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:55:34.558Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:56:04.460Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:56:34.928Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:57:04.008Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:57:35.082Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:58:04.096Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:58:34.796Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:59:03.993Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:59:35.466Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:00:04.102Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:00:36.764Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:01:04.458Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:01:35.724Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:02:04.569Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:02:36.971Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:03:04.005Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:03:37.332Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:04:04.125Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
+          }
+        ]
+      },
+      "newData": {
+        "number": "ZXZ123",
+        "brand": "æªè®¾ç½®åç",
+        "category": "hot",
+        "quantity": "123",
+        "targetPrice": "123",
+        "addTime": "2025-09-16T14:52:38.236Z",
+        "lastModified": "2025-09-16T15:05:04.687Z",
+        "lastModifiedBy": "zxz",
+        "createdBy": "zxz",
+        "version": 22,
+        "mergeInfo": {
+          "localContributor": "zxz",
+          "remoteContributor": "zxz",
+          "mergeTime": "2025-09-16T14:54:29.974Z",
+          "mergeStrategy": "smart_merge"
+        },
+        "conflictResolutions": [
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:55:34.558Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:56:04.460Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:56:34.928Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:57:04.008Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:57:35.082Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:58:04.096Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:58:34.796Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:59:03.993Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:59:35.466Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:00:04.102Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:00:36.764Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:01:04.457Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:01:35.724Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:02:04.569Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:02:36.971Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:03:04.005Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:03:37.332Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:04:04.125Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:04:37.311Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
+          }
+        ],
+        "conflictResolved": true,
+        "collaborationHistory": [
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:55:34.558Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:56:04.460Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:56:34.928Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:57:04.008Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:57:35.082Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:58:04.096Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:58:34.796Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:59:03.993Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:59:35.466Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:00:04.102Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:00:36.764Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:01:04.458Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:01:35.724Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:02:04.569Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:02:36.971Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:03:04.005Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:03:37.332Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:04:04.125Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
+          }
+        ]
+      },
+      "metadata": {
+        "source": "conflict_resolution",
+        "conflictFields": [
+          {
+            "field": "brand",
+            "local": "æªè®¾ç½®åç",
+            "remote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "localTime": 1758035077311,
+            "remoteTime": 1758035017332,
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "severity": "high"
+          }
+        ],
+        "resolution": "smart_merge"
+      },
+      "user": "zxz",
+      "source": "conflict_resolution",
+      "syncUser": "zxz",
+      "originalUser": "zxz",
+      "conflictFields": [
+        {
+          "field": "brand",
+          "local": "æªè®¾ç½®åç",
+          "remote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+          "localTime": 1758035077311,
+          "remoteTime": 1758035017332,
+          "localUser": "zxz",
+          "remoteUser": "zxz",
+          "severity": "high"
+        }
+      ],
+      "resolution": "smart_merge",
+      "sessionId": "mfmobqltkshkhnzuksj"
+    },
+    {
+      "id": "1758035138480ob1yuxj6l",
+      "timestamp": "2025-09-16T15:05:38.480Z",
+      "version": 1,
+      "action": "conflict_resolved",
+      "modelNumber": "ZXZ123",
+      "oldData": {
+        "number": "ZXZ123",
+        "brand": "æªè®¾ç½®åç",
+        "category": "hot",
+        "quantity": "123",
+        "targetPrice": "123",
+        "addTime": "2025-09-16T14:52:38.236Z",
+        "lastModified": "2025-09-16T15:05:04.687Z",
+        "lastModifiedBy": "zxz",
+        "createdBy": "zxz",
+        "version": 22,
+        "mergeInfo": {
+          "localContributor": "zxz",
+          "remoteContributor": "zxz",
+          "mergeTime": "2025-09-16T14:54:29.974Z",
+          "mergeStrategy": "smart_merge"
+        },
+        "conflictResolutions": [
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:55:34.558Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:56:04.460Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:56:34.928Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:57:04.008Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:57:35.082Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:58:04.096Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:58:34.796Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:59:03.993Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:59:35.466Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:00:04.102Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:00:36.764Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:01:04.457Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:01:35.724Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:02:04.569Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:02:36.971Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:03:04.005Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:03:37.332Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:04:04.125Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:04:37.311Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
+          }
+        ],
+        "conflictResolved": true,
+        "collaborationHistory": [
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:55:34.558Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:56:04.460Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:56:34.928Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:57:04.008Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:57:35.082Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:58:04.096Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:58:34.796Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:59:03.993Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:59:35.466Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:00:04.102Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:00:36.764Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:01:04.458Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:01:35.724Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:02:04.569Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:02:36.971Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:03:04.005Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:03:37.332Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:04:04.125Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
+          }
+        ]
+      },
+      "newData": {
+        "number": "ZXZ123",
+        "brand": "æªè®¾ç½®åç",
+        "category": "hot",
+        "quantity": "123",
+        "targetPrice": "123",
+        "addTime": "2025-09-16T14:52:38.236Z",
+        "lastModified": "2025-09-16T15:05:38.480Z",
+        "lastModifiedBy": "zxz",
+        "createdBy": "zxz",
+        "version": 23,
+        "mergeInfo": {
+          "localContributor": "zxz",
+          "remoteContributor": "zxz",
+          "mergeTime": "2025-09-16T14:54:29.974Z",
+          "mergeStrategy": "smart_merge"
+        },
+        "conflictResolutions": [
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:55:34.558Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:56:04.460Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:56:34.928Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:57:04.008Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:57:35.082Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:58:04.096Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:58:34.796Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:59:03.993Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T14:59:35.466Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:00:04.102Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:00:36.764Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:01:04.457Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:01:35.724Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:02:04.569Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:02:36.971Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:03:04.005Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:03:37.332Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:04:04.125Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:04:37.311Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:04.687Z",
+            "resolvedBy": "zxz"
+          },
+          {
+            "field": "brand",
+            "originalLocal": "æªè®¾ç½®åç",
+            "originalRemote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "chosenValue": "æªè®¾ç½®åç",
+            "resolution": "requires_manual_review",
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "resolvedAt": "2025-09-16T15:05:38.480Z",
+            "resolvedBy": "zxz"
+          }
+        ],
+        "conflictResolved": true,
+        "collaborationHistory": [
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:55:34.558Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:56:04.460Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:56:34.928Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:57:04.008Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:57:35.082Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:58:04.096Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:58:34.796Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:59:03.993Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T14:59:35.466Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:00:04.102Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:00:36.764Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:01:04.458Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:01:35.724Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:02:04.569Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:02:36.971Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:03:04.005Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:03:37.332Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:04:04.125Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:04:37.311Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:04.687Z"
+          },
+          {
+            "action": "conflict_resolution",
+            "involvedUsers": [
+              "zxz",
+              "zxz"
+            ],
+            "resolvedFields": [
+              "brand"
+            ],
+            "timestamp": "2025-09-16T15:05:38.480Z"
+          }
+        ]
+      },
+      "metadata": {
+        "source": "conflict_resolution",
+        "conflictFields": [
+          {
+            "field": "brand",
+            "local": "æªè®¾ç½®åç",
+            "remote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+            "localTime": 1758035104687,
+            "remoteTime": 1758035077311,
+            "localUser": "zxz",
+            "remoteUser": "zxz",
+            "severity": "high"
+          }
+        ],
+        "resolution": "smart_merge"
+      },
+      "user": "zxz",
+      "source": "conflict_resolution",
+      "syncUser": "zxz",
+      "originalUser": "zxz",
+      "conflictFields": [
+        {
+          "field": "brand",
+          "local": "æªè®¾ç½®åç",
+          "remote": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+          "localTime": 1758035104687,
+          "remoteTime": 1758035077311,
+          "localUser": "zxz",
+          "remoteUser": "zxz",
+          "severity": "high"
+        }
+      ],
+      "resolution": "smart_merge",
+      "sessionId": "mfmobqltkshkhnzuksj"
     }
   ],
   "versions": {},
@@ -17800,8 +21494,8 @@
       "id": "zxz",
       "name": "zxz",
       "joinTime": "2025-09-16T14:52:38.237Z",
-      "lastActive": "2025-09-16T15:04:37.311Z",
-      "operationCount": 25,
+      "lastActive": "2025-09-16T15:05:38.480Z",
+      "operationCount": 27,
       "role": "member"
     }
   },
@@ -18052,6 +21746,26 @@
           "brand": "æªè®¾ç½®åç",
           "source": "conflict_resolution"
         }
+      },
+      {
+        "action": "conflict_resolved",
+        "modelNumber": "ZXZ123",
+        "timestamp": "2025-09-16T15:05:04.687Z",
+        "details": {
+          "category": "hot",
+          "brand": "æªè®¾ç½®åç",
+          "source": "conflict_resolution"
+        }
+      },
+      {
+        "action": "conflict_resolved",
+        "modelNumber": "ZXZ123",
+        "timestamp": "2025-09-16T15:05:38.480Z",
+        "details": {
+          "category": "hot",
+          "brand": "æªè®¾ç½®åç",
+          "source": "conflict_resolution"
+        }
       }
     ]
   },
@@ -18264,22 +21978,44 @@
       "suggestion": "manual_review_required",
       "timestamp": "2025-09-16T15:04:37.311Z",
       "reason": "高严重程度冲突，建议人工处理"
+    },
+    {
+      "modelNumber": "ZXZ123",
+      "field": "brand",
+      "localValue": "æªè®¾ç½®åç",
+      "remoteValue": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+      "localUser": "zxz",
+      "remoteUser": "zxz",
+      "suggestion": "manual_review_required",
+      "timestamp": "2025-09-16T15:05:04.687Z",
+      "reason": "高严重程度冲突，建议人工处理"
+    },
+    {
+      "modelNumber": "ZXZ123",
+      "field": "brand",
+      "localValue": "æªè®¾ç½®åç",
+      "remoteValue": "Ã¦ÂÂªÃ¨Â®Â¾Ã§Â½Â®Ã¥ÂÂÃ§ÂÂ",
+      "localUser": "zxz",
+      "remoteUser": "zxz",
+      "suggestion": "manual_review_required",
+      "timestamp": "2025-09-16T15:05:38.480Z",
+      "reason": "高严重程度冲突，建议人工处理"
     }
   ],
   "syncInfo": {
     "teamId": "4",
-    "lastSync": "2025-09-16T15:04:37.317Z",
+    "lastSync": "2025-09-16T15:05:38.484Z",
     "syncUser": "zxz",
-    "syncVersion": 1758035077317,
+    "syncVersion": 1758035138484,
     "clientVersion": "1.2.0",
     "conflictResolution": "smart_merge",
     "totalOperations": 2,
     "historyRecordCount": 1,
     "modelsCount": 1,
     "dataIntegrity": {
-      "historyChecksum": "-rxs61p",
-      "modelsChecksum": "-e9fzvh",
-      "syncTimestamp": 1758035077317
+      "historyChecksum": "5gpq3f",
+      "modelsChecksum": "-d37vku",
+      "syncTimestamp": 1758035138484
     }
   }
 }
