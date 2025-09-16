@@ -2,15 +2,21 @@
   "models": {
     "ZXZ123": {
       "number": "ZXZ123",
-      "brand": "未设置品牌",
+      "brand": "æªè®¾ç½®åç",
       "category": "hot",
       "quantity": "123",
       "targetPrice": "123",
       "addTime": "2025-09-16T14:52:38.236Z",
-      "lastModified": "2025-09-16T14:52:38.236Z",
+      "lastModified": "2025-09-16T14:54:29.974Z",
       "lastModifiedBy": "zxz",
       "createdBy": "zxz",
-      "version": 1
+      "version": 2,
+      "mergeInfo": {
+        "localContributor": "zxz",
+        "remoteContributor": "zxz",
+        "mergeTime": "2025-09-16T14:54:29.974Z",
+        "mergeStrategy": "smart_merge"
+      }
     }
   },
   "history": {
@@ -26,7 +32,19 @@
       "originalCreatedBy": "zxz",
       "contributors": [
         "zxz"
-      ]
+      ],
+      "operations": [],
+      "mergedFrom": {
+        "local": {
+          "lastUpdate": "2025-09-16T14:54:23.300Z",
+          "operationCount": 0
+        },
+        "remote": {
+          "lastUpdate": "2025-09-16T14:54:23.300Z",
+          "operationCount": 0
+        },
+        "mergeTime": "2025-09-16T14:54:29.975Z"
+      }
     }
   },
   "brands": {},
@@ -188,6 +206,54 @@
       "originalUser": "zxz",
       "conflictFields": [],
       "sessionId": "mfmobqltkshkhnzuksj"
+    },
+    {
+      "id": "17580344699744p91ya3jn",
+      "timestamp": "2025-09-16T14:54:29.974Z",
+      "version": 1,
+      "action": "update",
+      "modelNumber": "ZXZ123",
+      "oldData": {
+        "number": "ZXZ123",
+        "brand": "未设置品牌",
+        "category": "hot",
+        "quantity": "123",
+        "targetPrice": "123",
+        "addTime": "2025-09-16T14:52:38.236Z",
+        "lastModified": "2025-09-16T14:52:38.236Z",
+        "lastModifiedBy": "zxz",
+        "createdBy": "zxz",
+        "version": 1
+      },
+      "newData": {
+        "number": "ZXZ123",
+        "brand": "æªè®¾ç½®åç",
+        "category": "hot",
+        "quantity": "123",
+        "targetPrice": "123",
+        "addTime": "2025-09-16T14:52:38.236Z",
+        "lastModified": "2025-09-16T14:54:29.974Z",
+        "lastModifiedBy": "zxz",
+        "createdBy": "zxz",
+        "version": 2,
+        "mergeInfo": {
+          "localContributor": "zxz",
+          "remoteContributor": "zxz",
+          "mergeTime": "2025-09-16T14:54:29.974Z",
+          "mergeStrategy": "smart_merge"
+        }
+      },
+      "metadata": {
+        "source": "remote_update",
+        "syncUser": "zxz",
+        "originalUser": "zxz"
+      },
+      "user": "zxz",
+      "source": "remote_update",
+      "syncUser": "zxz",
+      "originalUser": "zxz",
+      "conflictFields": [],
+      "sessionId": "mfmobqltkshkhnzuksj"
     }
   ],
   "versions": {},
@@ -197,8 +263,8 @@
       "id": "zxz",
       "name": "zxz",
       "joinTime": "2025-09-16T14:52:38.237Z",
-      "lastActive": "2025-09-16T14:54:23.300Z",
-      "operationCount": 5,
+      "lastActive": "2025-09-16T14:54:29.974Z",
+      "operationCount": 6,
       "role": "member"
     }
   },
@@ -249,24 +315,34 @@
         "details": {
           "source": "batch_save"
         }
+      },
+      {
+        "action": "update",
+        "modelNumber": "ZXZ123",
+        "timestamp": "2025-09-16T14:54:29.974Z",
+        "details": {
+          "category": "hot",
+          "brand": "æªè®¾ç½®åç",
+          "source": "remote_update"
+        }
       }
     ]
   },
   "syncConflicts": [],
   "syncInfo": {
     "teamId": "4",
-    "lastSync": "2025-09-16T14:54:23.301Z",
+    "lastSync": "2025-09-16T14:54:29.976Z",
     "syncUser": "zxz",
-    "syncVersion": 1758034463301,
+    "syncVersion": 1758034469976,
     "clientVersion": "1.2.0",
     "conflictResolution": "smart_merge",
-    "totalOperations": 5,
+    "totalOperations": 1,
     "historyRecordCount": 1,
     "modelsCount": 1,
     "dataIntegrity": {
-      "historyChecksum": "v95gko",
-      "modelsChecksum": "wo8p46",
-      "syncTimestamp": 1758034463301
+      "historyChecksum": "-kn4y0j",
+      "modelsChecksum": "-31asav",
+      "syncTimestamp": 1758034469976
     }
   }
 }
