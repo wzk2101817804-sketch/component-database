@@ -2,14 +2,22 @@
   "models": {
     "123": {
       "number": "123",
-      "brand": "未设置品牌",
+      "brand": "æªè®¾ç½®åç",
       "category": "unclassified",
       "quantity": "",
       "targetPrice": "",
       "addTime": "2025-09-17T02:41:52.459Z"
     }
   },
-  "history": {},
+  "history": {
+    "123": {
+      "brand": "æªè®¾ç½®åç",
+      "category": "unclassified",
+      "quantity": "",
+      "targetPrice": "",
+      "lastUpdate": "2025-09-17T02:47:53.803Z"
+    }
+  },
   "brands": {
     "TI": {
       "name": "TI",
@@ -19,8 +27,8 @@
   },
   "syncInfo": {
     "teamId": "default",
-    "lastSync": "2025-09-17T02:44:48.218Z",
+    "lastSync": "2025-09-17T02:48:26.998Z",
     "syncUser": "王哲康",
-    "syncVersion": 1758077088218
+    "syncVersion": 1758077306998
   }
 }
