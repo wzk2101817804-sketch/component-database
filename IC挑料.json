@@ -15,7 +15,7 @@
       "category": "unclassified",
       "quantity": "",
       "targetPrice": "",
-      "lastUpdate": "2025-09-17T02:47:53.803Z"
+      "lastUpdate": "2025-09-17T02:48:38.292Z"
     }
   },
   "brands": {
@@ -27,8 +27,8 @@
   },
   "syncInfo": {
     "teamId": "default",
-    "lastSync": "2025-09-17T02:48:26.998Z",
+    "lastSync": "2025-09-17T02:48:49.643Z",
     "syncUser": "王哲康",
-    "syncVersion": 1758077306998
+    "syncVersion": 1758077329643
   }
 }
